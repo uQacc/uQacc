@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Quacc (@uQacc)
 - 👀 I’m interested in Nintendo Wii
-- 🌱 I’m currently learning Nothing
+- 🌱 I’m currently learning Nothing (Ever so slowly looking into Java)
 - 💞️ I’m looking to collaborate on Not much
 - 📫 How to reach me v14vve0c@duck.com
 
